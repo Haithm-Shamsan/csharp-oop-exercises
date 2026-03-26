@@ -1,31 +1,17 @@
 ﻿# OOP Exercises
 
-## Overview
-This repository was organized and uploaded from a local project workspace.
+## About This Project
+I built this project as part of my learning and practice journey. It focuses on core programming concepts, structure, and problem-solving while improving how I organize code and structure features.
 
-## Repository Stats
-- GitHub repo: Haithm-Shamsan/csharp-oop-exercises
-- Scan date: 2026-03-26
-- Total tracked files scanned: 73
-- Text files fully read: 70
-- Binary or non-text files: 3
-- Approximate text line count: 10873
+## What I Implemented
+- I implemented core programming concepts, structure, and problem-solving.
+- I organized the project to keep logic clearer and easier to maintain.
 
-## File Types
-- .h: 38 files
-- .tlog: 9 files
-- .txt: 8 files
-- [no_ext]: 3 files
-- .pdb: 2 files
-- .aps: 1 files
-- .lastbuildstate: 1 files
-- .ilk: 1 files
+## Tech Stack
+- C# / .NET
 
-## Getting Started
-- Open solution in Visual Studio and run from IDE
-- Or build with .NET CLI: dotnet build
-
-## Project File Sample
+## Project Structure Highlights
+- README.md
 - .gitignore
 - Inharints.txt
 - OOP Exercises.sln
@@ -33,40 +19,18 @@ This repository was organized and uploaded from a local project workspace.
 - OOP Exercises/Clients.txt
 - OOP Exercises/Currencies.txt
 - OOP Exercises/LoginRegister.txt
-- OOP Exercises/LoginRegistr.txt
-- OOP Exercises/OOP Exercises.aps
-- OOP Exercises/OOP Exercises.cpp
-- OOP Exercises/OOP Exercises.rc
-- OOP Exercises/OOP Exercises.vcxproj
-- OOP Exercises/OOP Exercises.vcxproj.filters
-- OOP Exercises/TransfersLog.txt
-- OOP Exercises/Users.txt
-- OOP Exercises/clsAddNewClientScreen.h
-- OOP Exercises/clsAddNewUserScreen.h
-- OOP Exercises/clsBankClient.h
-- OOP Exercises/clsCalculetar.h
-- OOP Exercises/clsClientListScreen.h
-- OOP Exercises/clsCurrency.h
-- OOP Exercises/clsCurrencyCalculatorScreen.h
-- OOP Exercises/clsCurrencyListScreen.h
-- OOP Exercises/clsDate.h
-- OOP Exercises/clsDeleteClientScreen.h
-- OOP Exercises/clsDeleteUserScreen.h
-- OOP Exercises/clsDepositScreen.h
-- OOP Exercises/clsEmploee.h
-- OOP Exercises/clsExchangeCurrencyMenue.h
-- OOP Exercises/clsFindClientScreen.h
-- OOP Exercises/clsFindCurrncy.h
-- OOP Exercises/clsFindUserScreen.h
-- OOP Exercises/clsGloble.h
-- OOP Exercises/clsInputValidate.h
-- OOP Exercises/clsLoginRegisterList.h
-- OOP Exercises/clsLoginScreen.h
-- OOP Exercises/clsMainScreen.h
-- OOP Exercises/clsManageUserScreen.h
-- OOP Exercises/clsManageUsers.h.txt
-- OOP Exercises/clsPeriod.h
 
-## Notes
-- This README was auto-generated after scanning repository files.
-- You can customize this file with project purpose, screenshots, and usage details.
+## How To Run
+1. Open the `.sln` file in Visual Studio.
+2. Restore/build the solution.
+3. Run the startup project from Visual Studio.
+
+## What I Learned
+- I practiced building features end-to-end, from structure to execution.
+- I improved code organization and readability choices.
+- I strengthened my debugging and iteration workflow.
+
+## Next Improvements
+- Add deeper documentation for each module and workflow.
+- Add tests for the most critical flows.
+- Refine UX/UI and error handling where needed.
