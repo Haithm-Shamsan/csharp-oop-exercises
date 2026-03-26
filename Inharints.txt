@@ -1,0 +1,24 @@
+﻿'OOP Exercises.exe' (Win32): Loaded 'C:\Users\haythm.DESKTOP-E1ODE62\source\repos\OOP Exercises\x64\Debug\OOP Exercises.exe'. Symbols loaded.
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+The thread 0x37d4 has exited with code 0 (0x0).
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'OOP Exercises.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0xd50 has exited with code 0 (0x0).
+The thread 0x3a7c has exited with code 0 (0x0).
+The program '[11964] OOP Exercises.exe' has exited with code 0 (0x0).
